@@ -1,0 +1,6 @@
+# Default ignored files
+/.idea/workspace.xml
+compiler.xml
+/.idea
+/h2test.iml
+/target
